@@ -1,4 +1,5 @@
 ; NOTE: This script assumes Celeste's ult is on 2, Ishi's ult is on 4, and Makos's ult is on 8
+; NOTE: deleta
 
 target = IdleDragons.exe
 
