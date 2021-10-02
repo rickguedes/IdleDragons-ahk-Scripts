@@ -1,5 +1,6 @@
 ; this is designed around farming INSERT EVENT NAME HERE
 ; the framework can be reused for other campaigns
+; the network can have some issues 
 
 CoordMode, Mouse, Client
 
