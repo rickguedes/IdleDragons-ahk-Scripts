@@ -1,6 +1,7 @@
 ; this is designed around farming A GRAND TOUR OF THE SWORD COAST - WATERDEEP DETOURS
 ; the framework can be reused for other campaigns
 ; NOTE: This will farm Lost in the Deep if that has not been completed yet!
+; NOTE: this is a pr tryout
 
 ; THIS IS DESIGNED AROUND 1280 by 720 RESOLUTION
 
